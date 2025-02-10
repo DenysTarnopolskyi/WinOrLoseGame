@@ -9,8 +9,17 @@ https://code.visualstudio.com/download
 # 2. Install git:
 https://git-scm.com/downloads
 
-# 3. Install dependencies:
+# 3. Clone repository  in some folder:
+git clone https://github.com/DenysTarnopolskyi/WinOrLoseGame
+
+# 4. Run project folder in Visual Studio Code:
 npm install
 
-# 4. Run the Project:
+# 5. Run the terminal:
+View - Terminal - New Terminal
+
+# 6. Install dependencies in Terminal:
+npm install
+
+# 7. Run the Project in Terminal:
 npm start
