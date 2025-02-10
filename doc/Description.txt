@@ -1,0 +1,9 @@
+Тестовое задание 2: Игровая механика “Победа/Поражение”
+Представьте, что вам нужно разработать простую игру, где персонаж должен собрать 3 звезды, чтобы выиграть. Если он не успевает собрать все звезды за 20 секунд, наступает поражение.
+Ожидаемый результат: рабочий простой код или структурированное описание логики, на твое усмотрение.
+Сохранить результат можно в https://playcode.io/2181222 или https://codeshare.io/xLo40d
+
+Test task 2: Game mechanics “Win/Loss”
+Imagine that you need to develop a simple game where the character must collect 3 stars to win. If he does not manage to collect all the stars in 20 seconds, he loses.
+Expected result: working simple code or a structured description of the logic, at your discretion.
+You can save the result in https://playcode.io/2181222 or https://codeshare.io/xLo40d
