@@ -1,4 +1,4 @@
-export const SCORE_PANEL_TEXT = "Left starts to catch: ";
+export const SCORE_PANEL_TEXT = "Left stars to catch: ";
 export const TIME_TEXT = " sec";
 export const WIN_TEXT = "YOU WIN! \n \nCLICK TO START NEW ROUND!";
 export const LOSE_TEXT = "YOU LOSE! \nTIME IS LEFT!\nCLICK TO START NEW ROUND!";
