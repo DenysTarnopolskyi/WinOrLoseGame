@@ -5,7 +5,7 @@
     "description": "",
     "author": {
         "name": "DTarnopolskyi",
-        "url": "https://github.com/DenysTarnopolskyi"
+        "url": "https://github.com/DenysTarnopolskyi/WinOrLoseGame"
     },
     "scripts": {
         "start": "vite --open",
